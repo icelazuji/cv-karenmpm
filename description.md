@@ -1,18 +1,53 @@
 # Acerca de mí:
-- Imágen
-- Nombre Completo
-- Email
-- Usuario de Github
+- ![Foto](/bootstrap/img/karen1.png)
+- Nombre: Karen Axel Piña Mireles
+- Email: pinakaren22@gmail.com
+- Usuario de Github: karenmpm
 
 # Formación Académica
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent efficitur, magna et dictum convallis, augue tortor faucibus purus, ut ultrices velit nibh sit amet leo. Etiam scelerisque tellus urna. Nulla finibus sed mauris eu scelerisque. Nulla tempus, turpis vitae luctus efficitur, sapien lectus lacinia ex, sed placerat risus tellus quis massa. Etiam facilisis auctor quam, a ullamcorper urna mollis nec. Morbi a facilisis leo, et tincidunt massa. Duis eleifend a mi ac lacinia. Phasellus rhoncus leo vitae metus efficitur imperdiet. Donec tristique ipsum nec sapien facilisis, nec lacinia mi blandit. Nulla ut vulputate purus. Quisque lectus arcu, porttitor vel elementum finibus, mattis at neque. Curabitur hendrerit tellus eros, non rhoncus mauris consequat eget. Mauris pretium non neque in maximus.
+Escuela nacional preparatoria Plantel 8 Miguel E. Schultz 
+Promedio 9.4
+Generación 2014 - 2016
+
+Licenciatua en informática - Facultad de contaduría y administración 
+Promedio 9.4
+Generación 2017- 2020
+
 # Experiencia Profesional
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent efficitur, magna et dictum convallis, augue tortor faucibus purus, ut ultrices velit nibh sit amet leo. Etiam scelerisque tellus urna. Nulla finibus sed mauris eu scelerisque. Nulla tempus, turpis vitae luctus efficitur, sapien lectus lacinia ex, sed placerat risus tellus quis massa. Etiam facilisis auctor quam, a ullamcorper urna mollis nec. Morbi a facilisis leo, et tincidunt massa. Duis eleifend a mi ac lacinia. Phasellus rhoncus leo vitae metus efficitur imperdiet. Donec tristique ipsum nec sapien facilisis, nec lacinia mi blandit. Nulla ut vulputate purus. Quisque lectus arcu, porttitor vel elementum finibus, mattis at neque. Curabitur hendrerit tellus eros, non rhoncus mauris consequat eget. Mauris pretium non neque in maximus.
+Beca en IBM como Student - enero 2019
+Tutora de inglés a niños entre 5 y 14 años - 2011
 # Idiomas
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent efficitur, magna et dictum convallis, augue tortor faucibus purus, ut ultrices velit nibh sit amet leo. Etiam scelerisque tellus urna. Nulla finibus sed mauris eu scelerisque. Nulla tempus, turpis vitae luctus efficitur, sapien lectus lacinia ex, sed placerat risus tellus quis massa. Etiam facilisis auctor quam, a ullamcorper urna mollis nec. Morbi a facilisis leo, et tincidunt massa. Duis eleifend a mi ac lacinia. Phasellus rhoncus leo vitae metus efficitur imperdiet. Donec tristique ipsum nec sapien facilisis, nec lacinia mi blandit. Nulla ut vulputate purus. Quisque lectus arcu, porttitor vel elementum finibus, mattis at neque. Curabitur hendrerit tellus eros, non rhoncus mauris consequat eget. Mauris pretium non neque in maximus.
+Inglés 90 %
+Certificación Cambridge KET
+
+Alemán 45%
+Certificación OSD B1
+
 # Habilidades Técnicas
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent efficitur, magna et dictum convallis, augue tortor faucibus purus, ut ultrices velit nibh sit amet leo. Etiam scelerisque tellus urna. Nulla finibus sed mauris eu scelerisque. Nulla tempus, turpis vitae luctus efficitur, sapien lectus lacinia ex, sed placerat risus tellus quis massa. Etiam facilisis auctor quam, a ullamcorper urna mollis nec. Morbi a facilisis leo, et tincidunt massa. Duis eleifend a mi ac lacinia. Phasellus rhoncus leo vitae metus efficitur imperdiet. Donec tristique ipsum nec sapien facilisis, nec lacinia mi blandit. Nulla ut vulputate purus. Quisque lectus arcu, porttitor vel elementum finibus, mattis at neque. Curabitur hendrerit tellus eros, non rhoncus mauris consequat eget. Mauris pretium non neque in maximus.
+Desarrollo móvil
+    - Swift
+    - Android
+            
+Lenguajes de programación
+    - C
+    - Java
+    - JavaScript
+
+Desarrollo Web
+    - HTML
+    - CSS
+Backend
+    - PostgreSQL
+    - SQL server
+    - MySQL
+    - Anális y diseño de bases de datos
+
+Soft skills
+    - Comunicación efectiva
+    - Trabajo en equipo
+    - Gestión del tiempo
+    - Capacidad de toma de decisiones
