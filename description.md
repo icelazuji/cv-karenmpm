@@ -6,47 +6,48 @@
 
 # Formación Académica
 
-Escuela nacional preparatoria Plantel 8 Miguel E. Schultz 
+- Escuela nacional preparatoria Plantel 8 Miguel E. Schultz 
 Promedio 9.4
 Generación 2014 - 2016
 
-Licenciatua en informática - Facultad de contaduría y administración 
+- Licenciatua en informática - Facultad de contaduría y administración 
 Promedio 9.4
 Generación 2017- 2020
 
 # Experiencia Profesional
 
-Beca en IBM como Student - enero 2019
-Tutora de inglés a niños entre 5 y 14 años - 2011
+- Beca en IBM como Student - enero 2019
+- Tutora de inglés a niños entre 5 y 14 años - 2011
+
 # Idiomas
 
-Inglés 90 %
-Certificación Cambridge KET
+- Inglés 90 %
+ Certificación Cambridge KET
 
-Alemán 45%
+- Alemán 45%
 Certificación OSD B1
 
 # Habilidades Técnicas
 
-Desarrollo móvil
+- Desarrollo móvil
     - Swift
     - Android
             
-Lenguajes de programación
+- Lenguajes de programación
     - C
     - Java
     - JavaScript
 
-Desarrollo Web
+- Desarrollo Web
     - HTML
     - CSS
-Backend
+- Backend
     - PostgreSQL
     - SQL server
     - MySQL
     - Anális y diseño de bases de datos
 
-Soft skills
+- Soft skills
     - Comunicación efectiva
     - Trabajo en equipo
     - Gestión del tiempo
